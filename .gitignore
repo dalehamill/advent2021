@@ -2,9 +2,9 @@
 *.class
 
 #build stuff
-./build/kotlin/
-./build/classes/
-./.gradle/
+/build/kotlin/
+/build/classes/
+/.gradle/
 
 # Log file
 *.log
